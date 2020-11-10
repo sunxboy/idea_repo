@@ -1,0 +1,16 @@
+<templateSet group="SunGroup">
+  <template name="**" value="    ** &#10;    * @param $params$ &#10;    * @return $returns$ &#10;    * @describe X&#10;    */" description="metod" toReformat="false" toShortenFQNames="true">
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="*" value=" ** &#10;    * @author SunXianBing &#10;    * @email sunxianbing@purvar.com&#10;    * @date $date$ $time$ &#10;    * @describe X&#10;    */" description="object" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
