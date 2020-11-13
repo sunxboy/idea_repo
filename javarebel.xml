@@ -1,7 +1,6 @@
 <application>
   <component name="JavaRebelPlugin">
     <option name="javaRebelPath" value="C:\Users\DELL\.IntelliJIdea2019.2\config\plugins\jr-ide-idea\lib\jrebel6\jrebel.jar" />
-    <option name="griffin" value="false" />
     <option name="settingsStartupRadioSelection" value="1" />
     <option name="ideInstallationStorage">
       <map>
@@ -10,7 +9,7 @@
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autosave.enabled" value="true" />
-        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2020.2.1" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2020.3.1" />
         <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2020.3.1" />
         <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
       </map>
