@@ -1,0 +1,15 @@
+<keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)">
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="List-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="Table-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="TodoViewGroupByFlattenPackage" />
+</keymap>
