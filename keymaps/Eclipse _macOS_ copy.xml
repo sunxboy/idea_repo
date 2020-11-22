@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
@@ -17,4 +20,6 @@
     <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="TodoViewGroupByFlattenPackage" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>
