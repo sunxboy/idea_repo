@@ -2,6 +2,7 @@
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
+  <action id="Exit" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="meta f" />
