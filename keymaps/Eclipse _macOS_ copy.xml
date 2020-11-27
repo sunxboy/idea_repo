@@ -13,6 +13,10 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="meta q" />
+  </action>
   <action id="List-selectNextColumn">
     <keyboard-shortcut first-keystroke="right" />
   </action>
