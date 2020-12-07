@@ -10,8 +10,8 @@
     <mask>*.</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
     <mask>*.vue</mask>
   </component>
 </application>
