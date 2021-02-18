@@ -1,0 +1,30 @@
+<keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)">
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="Exit" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="meta q" />
+  </action>
+  <action id="List-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="RunToCursor" />
+  <action id="Table-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="TodoViewGroupByFlattenPackage" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+</keymap>
